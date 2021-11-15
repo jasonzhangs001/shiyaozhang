@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nodate
+# jemdoc: notime
+= Shiyao Zhang
+
+# ~~~
+# {}{img_left}{./jandan.png}{photo}{200px}{200px}{}
+
+==== Dr. Shiyao Zhang
+Doctor of Philosophy in Electrical Engineering\n\n
+Phone: ~~~~\+86 159 8669 4857\n
+Email: ~~~~~[zhangsy@sustech.edu.cn]\n
+Address: ~Rm. 549A, South Building, College of Engineering\n
+Southern University of Science and Technology, Shenzhen, China
+\n\n
+[https://scholar.google.com/citations?user=Pjh4rVAAAAAJ&hl=en Google Scholar] | [https://www.researchgate.net/profile/Shiyao-Zhang-4 ResearchGate]
+# ~~~
+
+~~~
+Welcome to my webpage!
+
+I am currently a Postdoctoral research fellow at the Southern University of Science and Technology, working with Dr. James J. Q. Yu. I was a visiting scholar at Southern University of Science and Technology, hosted by Dr. James J. Q. Yu. I received my Ph.D. degree in Electrical and Electronic Engineering from the University of Hong Kong, where Prof. Lawrence K. Yeung was my primary supervisor and Dr. Ka-Cheong Leung was my co-supervisor. I received my M.S. degree in Electrical Engineering from University of Southern California, Los Angeles, CA, USA. I received my B.S. degree in Electrical and Computer Engineering from the Purdue University, West Lafayette, IN, USA.
+
+~~~
+
+== Research Interest
+- Smart Energy Systems
+- Intelligent Transportation Systems
+- Deep Learning in Smart Cities
+
+== Professional Activities:
+- IEEE Member,~~2020/09 - Present
+- ACM-HK Coach Assistant (The University of Hong Kong),~~2017/05 – 2017/08
+-- Coach: Dr. Ka-Cheong Leung
+- Reviewer for top journals:
+-- IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS)
+-- IEEE Transactions on Computational Social Systems (IEEE TCSS)
+-- IEEE Systems Journal (IEEE ISJ)
+-- IEEE Transactions on Network Science and Engineering (IEEE TNSE)
+-- Wireless Networks
+-- Journal of Cleaner Production
+-- Journal of Energy Storage
+-- IET Smart Cities
+- Reviewer for top conferences:
+-- IEEE Wireless Communications and Networking Conference (IEEE WCNC)
+-- IEEE Global Communications Conference (IEEE Globecom)
+-- IEEE International Conference on Communications (IEEE ICC)
+-- IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm)
+-- IEEE International Conference on Mobility, Sensing and Networking (IEEE MSN)
+
