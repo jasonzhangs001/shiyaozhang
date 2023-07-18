@@ -5,9 +5,9 @@
 
 == Journal Publications
 % (\*) Corresponding Author.%
-- \[J.20\] Chenhan Zhang, *Shiyao Zhang*, Shui Yu, and James J.Q. Yu\*, “SAM: Efficient and Stealthy Topology Attack on Graph Neural Networks,” IEEE Transactions on Dependable and Secure Computing (IEEE TDSC), submitted. 
-- \[J.19\] Shengyu Zhang, *Shiyao Zhang*\*, James J.Q. Yu, and Lawrence K. Yeung, “Urban Internet of Electric Vehicle Parking System for Vehicle-to-Grid Scheduling: Formulation and Distributed Algorithm,” IEEE Transactions on Vehicular Technology (IEEE TVT), submitted.
-- \[J.18\] *Shiyao Zhang*, and James J.Q. Yu\*, “Online Joint Ride-Sharing and Dynamic Vehicle-to-Grid Coordination for Connected Electric Vehicle System,” IEEE Transactions on Transportation Electrification (IEEE TTE), accepted.
+- \[J.20\] Shengyu Zhang, *Shiyao Zhang*\*, James J.Q. Yu, and Lawrence K. Yeung, “Urban Internet of Electric Vehicle Parking System for Vehicle-to-Grid Scheduling: Formulation and Distributed Algorithm,” IEEE Transactions on Vehicular Technology (IEEE TVT), submitted.
+- \[J.19\] Chenhan Zhang, *Shiyao Zhang*, Shui Yu, and James J.Q. Yu\*, “SAM: Query-Efficient Adversarial Attacks Against Graph Neural Networks,” ACM Transactions on Privacy and Security (ACM TOPS), accepted. 
+- \[J.18\] *Shiyao Zhang*, and James J.Q. Yu\*, “Online Joint Ride-Sharing and Dynamic Vehicle-to-Grid Coordination for Connected Electric Vehicle System,” IEEE Transactions on Transportation Electrification (IEEE TTE), in press.
 - \[J.17\] Yunjie Huang, Xiaozhuang Song, Yuanshao Zhu, *Shiyao Zhang*, and James J.Q. Yu\*, “Traffic Prediction with Transfer Learning: A Graph Cluster-based Approach,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press. 
 - \[J.16\] Zongze Li, Shuai Wang\*, Shiyao Zhang, Miaowen Wen, Yi-Chung Wu, and Derrick Wing Kwan Ng, “V2X Motion Planning With Channel Uncertainty: Joint Safe Distance and Power Control,” IEEE Transactions on Vehicular Technology (IEEE TVT), in press.
 - \[J.15\] Ao Wang, Yongchao Ye, Xiaozhuang Song, *Shiyao Zhang*, and James J.Q. Yu\*, “Traffic Prediction with Missing Data: A Multi-task Learning Approach,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press. 
@@ -29,7 +29,7 @@
 == Conference Publications
 %(\*) Corresponding Author.%
 - \[C.11\] Junshen Chen, Qihao Yuan, *Shiyao Zhang*\*, and Chang Liu, “Data-Driven OTFS Channel Estimation Based on Gated Recurrent Convolutional Autoencoder,” submitted.
-- \[C.10\] Zhipeng Zheng, Yongchao Ye, Yuanshao Zhu, *Shiyao Zhang*\*, and James J.Q. Yu, “Data-driven methods for travel time estimation: A survey,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2023), Bilbao, Bizkaia, Spain, 24-28 September 2023.
+- \[C.10\] Zhipeng Zheng, Yongchao Ye, Yuanshao Zhu, *Shiyao Zhang*\*, and James J.Q. Yu\*, “Data-driven methods for travel time estimation: A survey,” Proceedings of the IEEE Intelligent Transportation Systems Conference (IEEE ITSC 2023), Bilbao, Bizkaia, Spain, 24-28 September 2023.
 - \[C.9\] Shengyu Zhang, *Shiyao Zhang*\*, and Lawrence K. Yeung, “Energy-efficient Federated Learning for Internet of Vehicle System over Rate-Splitting Multiple Access,” Proceedings of the 18th International Symposium on Wireless Communication Systems (ISWCS 2022), Hangzhou, China, 19-22 October 2022. (Invited paper)
 - \[C.8\]	Chenhan Zhang, *Shiyao Zhang*, Shui Yu, and James J.Q. Yu\*, “Graph-Based Traffic Forecasting via Communication-Efficient Federated Learning,” Proceedings of the IEEE Wireless Communications and Networking Conference (IEEE WCNC 2022), Austin, TX, United States, 10-13 April 2022.
 - \[C.7\]	*Shiyao Zhang*, and Ka-Cheong Leung\*, “Data-Driven Frequency Regulation Reserve Prediction Based on Deep Learning Approach,” Proceedings of the IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (IEEE SmartGridComm 2021), Aachen, Germany, 25-28 October 2021.
