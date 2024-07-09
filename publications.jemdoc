@@ -5,10 +5,12 @@
 
 == Journal Publications
 % (*) Corresponding Author.%
-- \[J.24\] *Shiyao Zhang*, Xingzheng Zhu, Shengyu Zhang, and James J.Q. Yu\*, “Non-Cooperative Coupled Microgrid-Transportation Coordination System: A Deep Deterministic Policy Gradient-Based Approach,” International Journal of Electrical Power and Energy Systems (IJEPES), in press.
-- \[J.23\] Yunjie Huang, Xiaozhuang Song, *Shiyao Zhang*, Lei Li, and James J.Q. Yu\*, “GT-TTE: Modeling Trajectories as Graphs for Travel Time Estimation,” IEEE Internet of Things Journal (IEEE IoT-J), in press. 
-- \[J.22\] *Shiyao Zhang*, Shuyu Zhang\*, James J.Q. Yu, and Xuetao Wei, “ST-AGNet: Dynamic Power System State Prediction with Spatial-Temporal Attention Graph-Based Network,” Applied Energy, vol. 365, pp. 123252, July 2024.
-- \[J.21\] Adnan Zeb, *Shiyao Zhang*, Xuetao Wei, and James J.Q. Yu, “A Generalized Feature Projection Scheme for Multi-Step Traffic Forecasting,” Expert Systems with Applications, vol. 244, pp. 122962, June 2024.
+- \[J.26\] Yunjie Huang, Xiaozhuang Song, *Shiyao Zhang*, Lei Li, and James J.Q. Yu\*, “GT-TTE: Modeling Trajectories as Graphs for Travel Time Estimation,” IEEE Internet of Things Journal (IEEE IoT-J), in press. 
+- \[J.25\] Shengyu Zhang, *Shiyao Zhang*\*, Yijie Mao\*, Lawrence K. Yeung, Bruno Clerckx, and Tony Q.S. Quek, “Transformer-based Channel Prediction for Rate-Splitting Multiple Access-enabled Vehicle-to-Everything Communication,” IEEE Transactions on Wireless Communications (IEEE TWC), in press.
+- \[J.24\] *Shiyao Zhang*, Xingzheng Zhu, Shengyu Zhang, and James J.Q. Yu\*, “Non-Cooperative Coupled Microgrid-Transportation Coordination System: A Deep Deterministic Policy Gradient-Based Approach,” International Journal of Electrical Power and Energy Systems (IJEPES), vol. 160, pp. 110092, September 2024.
+- \[J.23\] *Shiyao Zhang*, Shuyu Zhang\*, James J.Q. Yu, and Xuetao Wei, “ST-AGNet: Dynamic Power System State Prediction with Spatial-Temporal Attention Graph-Based Network,” Applied Energy, vol. 365, pp. 123252, July 2024.
+- \[J.22\] Adnan Zeb, *Shiyao Zhang*, Xuetao Wei, and James J.Q. Yu, “A Generalized Feature Projection Scheme for Multi-Step Traffic Forecasting,” Expert Systems with Applications, vol. 244, pp. 122962, June 2024.
+- \[J.21\] Xingzheng Zhu, Hua Fan\*, *Shiyao Zhang*, and Jiao Du, “Stochastic Optimization of Electric Bus Dynamic Wireless Charging System,” World Electric Vehicle Journal (WEVJ), vol. 15, no. 4, pp. 137, March 2024. 
 - \[J.20\] *Shiyao Zhang*, and James J.Q. Yu\*, “Online Joint Ride-Sharing and Dynamic Vehicle-to-Grid Coordination for Connected Electric Vehicle System,” IEEE Transactions on Transportation Electrification (IEEE TTE), vol. 10, no. 1, pp. 1194-1206, March 2024.
 - \[J.19\] Shengyu Zhang, *Shiyao Zhang*\*, James J.Q. Yu, and Lawrence K. Yeung, “Urban Internet of Electric Vehicle Parking System for Vehicle-to-Grid Scheduling: Formulation and Distributed Algorithm,” IEEE Transactions on Vehicular Technology (IEEE TVT), vol. 73, no. 1, pp. 67-79, January 2024.
 - \[J.18\] Chenhan Zhang, *Shiyao Zhang*, Shui Yu, and James J.Q. Yu\*, “SAM: Query-Efficient Adversarial Attacks Against Graph Neural Networks,” ACM Transactions on Privacy and Security (ACM TOPS), vol. 26, no. 4, pp. 1-19, November 2023. 
@@ -32,7 +34,8 @@
 
 == Conference Publications
 %(*) Corresponding Author%
-- \[C.14\] *Shiyao Zhang*’, He Li’, Shuai Wang*, Derrick Wing Kwan Ng, and Chengzhong Xu, “Uncertainty-Aware Lidar-based Autonomous Cooperative Platooning,” Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, 14-18 October 2024. (Equal Contribution)
+- \[C.15\] *Shiyao Zhang*’, He Li’, Shuai Wang*, Derrick Wing Kwan Ng, and Chengzhong Xu, “Uncertainty-Aware Lidar-based Autonomous Cooperative Platooning,” Proceedings of the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024), Abu Dhabi, United Arab Emirates, 14-18 October 2024. (Equal Contribution)
+- \[C.14\] Qihao Yuan, Junshen Chen, Zezhong Zhang\*, and *Shiyao Zhang*\*, “Low-Latency Resource Allocation Scheme in OTFS-NOMA IoV Platoon System,” Proceedings of the Proceedings of the 2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops), Hangzhou, China, 7-9 August 2024.
 - \[C.13\] Yuanshao Zhu, Yongchao Ye, *Shiyao Zhang*, Xiangyu Zhao\*, and James J.Q. Yu\*, “DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model,” Proceedings of the Thirty-seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023), New Orleans, LA, United States, 10-16 December 2023.
 - \[C.12\] Junshen Chen, Qihao Yuan, *Shiyao Zhang*\*, and Chang Liu, “Data-Driven OTFS Channel Estimation Based on Gated Recurrent Convolutional Autoencoder,” Proceedings of the 2023 International Symposium on Communications and Information Technologies (ISCIT 2023), Sydney, Australia, 16-18 October 2023.
 - \[C.11\]	Yuchen Jiang, Ying Wu, *Shiyao Zhang*\*, and James J.Q. Yu\*, “FedVAE: Trajectory privacy preserving based on Federated Variational AutoEncoder,” Proceedings of the 2023 IEEE 98th Vehicular Technology Conference (VTC2023-Fall), Hong Kong SAR, China, 10-13 October 2023.
