@@ -1,8 +1,6 @@
-# Dr. Shiyao Zhang
-
-Doctor of Philosophy in Electrical Engineering
+# Prof. Shiyao Zhang
 
 **Email:**    <syzhang@ieee.org>
 
-**Address:**  Rm. 241A, South Building, College of Engineering
-Southern University of Science and Technology, Shenzhen, China
+**Address:**  School of Engineering
+Great Bay University, Dongguan City, China
