@@ -2,5 +2,5 @@
 
 **Email:**    <syzhang@ieee.org>
 
-**Address:**  School of Engineering
+**Address:**  School of Advanced Engineering
 Great Bay University, Dongguan City, China
