@@ -23,9 +23,10 @@
 
 == Intelligent Transportation Systems
 %(*) Corresponding Author.%
-- \[J15\] Zhipeng Zheng, *Shiyao Zhang*\*, and Xuetao Wei, “MVP-enhanced: A Multi-View Prompt-Enhanced Model for Trajectory Representation Learning,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), in press. 
+- \[J16\] Jie Zhang, Mengying Zhang\*, Junhua Zhang, and *Shiyao Zhang*\*, “Federated Edge Learning Based Multi-Drone Optimal Delivery Routing Approach,” IEEE Transactions on Vehicular Technology (IEEE TVT), in press. 
+- \[J15\] Zhipeng Zheng, *Shiyao Zhang*\*, and Xuetao Wei, “MVP-enhanced: A Multi-View Prompt-Enhanced Model for Trajectory Representation Learning,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), vol. 27, no. 11, pp. 14066-14079, November 2026. 
 - \[J14\] Yuchen Jiang, Guanhua Chen, *Shiyao Zhang*, Liang Han, and James J.Q. Yu\*, “SemTraj: Semantic-Controllable Diffusion Model for High-Fidelity Trajectory Data Generation,” Expert Systems with Applications, vol. 315, pp. 131661, June 2026. 
-- \[J13\] Liwei Deng, Hao Wang\*, Junhao Tan, Xinhe Niu, Yuxin He, and *Shiyao Zhang*, “STD2Vformer: A Free-Form Spatiotemporal Forecasting Model,” IEEE Transactions on Industrial Informatics (IEEE TII), in press.
+- \[J13\] Liwei Deng, Hao Wang\*, Junhao Tan, Xinhe Niu, Yuxin He, and *Shiyao Zhang*, “STD2Vformer: A Free-Form Spatiotemporal Forecasting Model,” IEEE Transactions on Industrial Informatics (IEEE TII), vol. 22, no. 5, pp. 4044-4055, May 2026.
 - \[J12\] Adnan Zeb, Jianying Zheng, Yongchao Ye, Junde Chen, *Shiyao Zhang*, Xuetao Wei, and James J.Q. Yu\*, “Traffic forecasting with meta attentive graph convolutional recurrent network,” Expert Systems with Applications, vol. 287, pp. 128073, August 2025. 
 - \[J11\] James J.Q. Yu, Xinwei Fang, *Shiyao Zhang*\*, and Yuxin Ma\*, “CLEAR: Spatial-temporal Traffic Data Representation Learning for Traffic Prediction,” IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), vol. 37, no. 4, pp. 1672 – 1687, April 2025. 
 - \[J10\] Yongchao Ye, Ao Wang, Adnan Zeb, *Shiyao Zhang*\*, and James J.Q. Yu\*, “Map-Informed Trajectory Recovery with Adaptive Spatio-Temporal Autoencoder,” IEEE Transactions on Intelligent Transportation Systems (IEEE T-ITS), vol. 26, no. 1, pp. 1524-9050, January 2025. 
@@ -68,9 +69,9 @@
 
 == Vehicular Communication
 %(*) Corresponding Author%
-- \[J8\] Shengyu Zhang, *Shiyao Zhang*\*, Weijie Yuan\*, Zan Li, and Tony Q.S. Quek, “RadioRS: A Sampling-Free Low-Altitude Wireless Networks Leveraging Radio Maps and Rate-Splitting,” IEEE Transactions on Mobile Computing (IEEE TMC), in press. 
-- \[J7\] Hongjia Huang, *Shiyao Zhang*\*, Weijie Yuan\*, Zhongbin Wang, Shuqing Xia, Tony Q.S. Quek, and Hyundong Shin, “Res-Unet-MLP: A Data-Driven Mobile User Sensing Approach in Near-Field ISAC System,” IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN), in press. 
-- \[J6\] Shengyu Zhang, Zan Li, Jia Shi, Yijie Mao, *Shiyao Zhang*, and Tony Q.S. Quek, “FARS: Elevating Rate-Splitting Multiple Access in Non-Territorial Networks with Intelligent Fluid Antenna System,” IEEE Journal on Selected Areas in Communications (IEEE JSAC), in press.
+- \[J8\] Shengyu Zhang, *Shiyao Zhang*\*, Weijie Yuan\*, Zan Li, and Tony Q.S. Quek, “RadioRS: A Sampling-Free Low-Altitude Wireless Networks Leveraging Radio Maps and Rate-Splitting,” IEEE Transactions on Mobile Computing (IEEE TMC), vol. 25, no. 7, pp. 11287-11304, July 2026. 
+- \[J7\] Shengyu Zhang, Zan Li, Jia Shi, Yijie Mao, *Shiyao Zhang*, and Tony Q.S. Quek, “FARS: Elevating Rate-Splitting Multiple Access in Non-Territorial Networks with Intelligent Fluid Antenna System,” IEEE Journal on Selected Areas in Communications (IEEE JSAC), vol. 44, pp. 1045-1060, September 2026.
+- \[J6\] Hongjia Huang, *Shiyao Zhang*\*, Weijie Yuan\*, Zhongbin Wang, Shuqing Xia, Tony Q.S. Quek, and Hyundong Shin, “Res-UNet-GRU: A Data-Driven Near-Field Sensing Approach in ISAC-Based Low-Altitude Networks,” IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN), vol. 12, pp. 5817-5831, February 2026. 
 - \[J5\] Shengyu Zhang, *Shiyao Zhang*, Weijie Yuan\*, Jia Shi, Zan Li, and Tony Q.S. Quek\*, “Personalizing Rate-Splitting in Vehicular Communication via Large Multi-Modal Model,” Science China Information Sciences (SCIS), vol. 68, no. 7, pp. 1-16, July 2025. 
 - \[J4\] Shengyu Zhang, *Shiyao Zhang*\*, Weijie Yuan, and Tony Q.S. Quek\*, “Transformer-Empowered Predictive Beamforming for Rate-Splitting Multiple Access in Non-Terrestrial Networks,” IEEE Transactions on Wireless Communications (IEEE TWC), vol. 23, no. 12, pp. 19776-19788, December 2024. 
 - \[J3\] Junshen Chen, Qihao Yuan, Huiyi Ding, Xingzheng Zhu\*, and *Shiyao Zhang*, “Low-Latency NOMA-Enabled Vehicle Platoon Resource Allocation Scheme: A Deep Deterministic Policy Gradient-Based Approach,” IEEE Communications Letters (IEEE CL), vol. 28, no. 11, pp. 2568-2572, November 2024. 
@@ -85,8 +86,6 @@
 
 == Other Cross-Disiplinary Area
 %(*) Corresponding Author%
-- \[J6\] Jie Zhang, Mengying Zhang\*, Junhua Zhang, and *Shiyao Zhang*\*, “Federated Edge Learning Based Multi-Drone Optimal Delivery Routing Approach,” IEEE Transactions on Vehicular Technology (IEEE TVT), in press. 
-- \[J5\] Nan Zhang, Minghan Yang, Zhikang Xu, Ziyun Zhao, Dalong Gao, Susu Wang, Dongli Li, Zihan Guo, Mouyhorng Boung, *Shiyao Zhang*\*, and Chenhan Zhang\*, “From partial observations to contact networks: reconstructing children's surface touch behavior for risk-informed management of child-care buildings,” Journal of Building Engineering (JOBE), in press. 
 - \[J4\] Toan Quoc Nguyen, Chenhan Zhang, Linh Le, David Williams King, Long Tuan Vo, Juliette Murris, *Shiyao Zhang*\*, and Nghia Duong Trung, “Intelligent and Inclusive EEG-Driven Authentication for Gender Fairness and Cognitive Impairment,” Intelligence & Robotics, in press.
 - \[J3\] Nan Zhang, Minghan Yang, Zhikang Xu, Ziyun Zhao, Dalong Gao, Susu Wang, Dongli Li, Zihan Guo, Mouyhorng Boung, *Shiyao Zhang*\*, and Chenhan Zhang\*, “From partial observations to contact networks: reconstructing children's surface touch behavior for risk-informed management of child-care buildings,” Journal of Building Engineering (JOBE), in press.
 - \[J2\] Nan Zhang\*, Tingrui Hu, Shujia Shang, *Shiyao Zhang*, Wei Jia, Jinhang Chen, Zixuan Zhang, Boni Su, Zhenyu Wang, Reynold Cheng, and Yuguo Li, “Changes in local travel behaviour under continuing COVID-19 waves in a large city – a proxy for pandemic fatigue?” Transportation Research Interdisciplinary Perspectives (TRIP), vol. 18, pp. 100757, March 2023.
